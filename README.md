@@ -1,4 +1,5 @@
 # Scrapping de la camara de diputados
+## DEPRECATED: La camara de diputados cambio la pagina por lo que este script ya no tiene sentido 😔
 WebScrap de la Camara de Diputados de Chile
 
 
